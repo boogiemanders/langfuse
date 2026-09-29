@@ -110,7 +110,7 @@
     "dompurify": "^3.1.5",
     "graphql": "^16.9.0",
     "ioredis": "^5.4.1",
-    "ip-address": "^9.0.5",
+    "ip-address": "^10.5.1",
     "js-tiktoken": "^1.0.15",
     "kysely": "^0.27.4",
     "langchain": "^0.3.2",
